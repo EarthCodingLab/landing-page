@@ -2979,6 +2979,10 @@ input, select, textarea {
 					position: relative;
 				}
 
+		.main .bono-img {
+			display: none;
+		}
+
 	}
 
 /* Small */
@@ -3036,6 +3040,8 @@ input, select, textarea {
 			#footer .container {
 				padding: 3em 1.5em 1em 1.5em ;
 			}
+
+
 
 	}
 
